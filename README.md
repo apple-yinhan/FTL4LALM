@@ -19,6 +19,10 @@ Please firstly download the checkpoint of the separator (SNSep) from huggingface
 
 Python ./ftl.py
 
+## MMAU-Pro-Ctrl
+
+You can download MMAU-Pro-Ctrl from huggingface: https://huggingface.co/datasets/apple121/MMAU-Pro-Ctrl 
+
 ## Citation
 
 If you find this work useful, please cite:
