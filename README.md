@@ -15,6 +15,8 @@ conda env create -f environment.yml
 
 2. Run the code
 
+Please firstly download the checkpoint of the separator (SNSep) from huggingface: https://huggingface.co/apple121/FTL4LALM
+
 Python ./ftl.py
 
 ## Citation
